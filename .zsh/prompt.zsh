@@ -1,1 +1,1 @@
-export PROMPT="%{$fg[cyan]%}%n@%m:%c%{$reset_color%} "
+export PROMPT="%{$fg[cyan]%}%n@%m:%2~%{$reset_color%} "
