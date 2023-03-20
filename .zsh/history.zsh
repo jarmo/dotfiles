@@ -1,4 +1,4 @@
-setopt hist_ignore_all_dups inc_append_history extendedhistory
+setopt hist_ignore_all_dups inc_append_history extendedhistory hist_ignore_space
 HISTFILE=~/.zhistory
-HISTSIZE=4096
-SAVEHIST=4096
+HISTSIZE=16384
+SAVEHIST=16384
